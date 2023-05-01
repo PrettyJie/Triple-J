@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title style="Text-align:center:">The Triple J</title></head>
+ <body>
+ <p style="font-size:24px;color:red;"><b><i><u>MEET The Triple J.<p><a href="https://cloudinary-marketing-res.cloudinary.com/image/upload/w_1000/q_auto/f_auto/vieste_italy.jpg";>Click Here</a></p>
+  <p>We are;<in style="font-size:24px;color:pink;"> Pretty J</in> and
+  <in style="font-size:24px;color:blue;">Cute John</in>.
+ <br>So we are "The Triple J"</b></i></u><p><a href="https://www.facebook.com">click me</a>
+<p><p><h4 style="text-align:left;">Our Services</h4><p><ul type="square">
+<li>Taxis</li>
+<li>Motors/Car Rentals</>
+<li>Rentals</li>
+<li>Pickups</li>
+<li>Groceries</>
+<li>Deliveries</li>
+<li>Unisex Wears</li>
+<li>Freight-Bookings</>
+<li>Accomodation Reservations, etc</li></p>
+</ul><space><h4>About Us</h4><space><style="text-align:right";><h4 style="text-align:right;">Contact Us</h4>
+<h5 style="text-align:right;">Address: IGI House Along Shiroro Road, Minna Niger State.</h5><h5 style="text-align:right;">Call Us On: +2347035854705, +2348063601664.</h5><h5 style="text-align:right;">Mail Us: triplej@gmail.com</p></h5></canvas>
+</body>
+<form>
+<fieldset size="30">
+ <legend>Contact Information:</legend>
+  <p>Surname:<input type="text" placeholder="Enter your surname"></p>
+  <p>First Name:<input type="text" placeholder="Enter your first name"></p>
+  <p>Middle Name:<input type="text" placeholder="Enter your middle name"></p>
+  <p>Gender:<input type="text" placeholder="Enter your gender"></p>
+  <p>Email Address Please:<input type="text" placeholder="Enter your email address"></p>
+  <p>Phone Number Please:<input type="text" placeholder="Enter your phone number"></p>
+  <p>Alternative Phone Number:<input type="text" placeholder="Optional"></p>
+</fieldset>
+
+
+<p>
+<form>
+ <fieldset size="width=30">
+
+<p contenteditable="true"><legend>Membership Form<input type="text" placeholder="editable"></legend>
+   
+   <p>Username:<input type="text" placeholder="Enter Username" required></p>
+   <p>Password:<input type="alphanumeric" placeholder="Enter Password" required></p>
+   <p>Confirm Password:<input type="alphanumeric" placeholder="Confirm Password" required></p>
+   <p>Date of Birth:<input type="date"></p>
+   <p>Age:<input type="number" placeholder="Enter Age" required></p>
+   <p>Email Address:<input type="email" placeholder="Enter email address" required></p>
+   <p>URL:<input type="url" placeholder="enter url" required></p>
+</fieldset>
+</form></p>
+
+
+
+<p><h4>Book Us For Your Services</h4></p>
+
+<p><h4>Review Our Services</h4></p><br>
